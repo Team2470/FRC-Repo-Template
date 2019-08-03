@@ -1,6 +1,7 @@
+---
 # FRC-Repo-Template
 
-Use this template to create new repositories for FRC yearly code. Change the license to the current year, update the links to other repos below, and delete this information block (leave the FRC-20XX but change the date to ***THE YEAR OF KICKOFF. (if kickoff is Jan 3, 2020: use FRC-2020)***
+Use this template to create new repositories for FRC yearly code. Change the license to the current year, update the links to other repos below, and delete this information block between the horizontal lines (leave the FRC-20XX but change the date to ***THE YEAR OF KICKOFF. (if kickoff is Jan 3, 2020: use FRC-2020)***
 
 ---
 # FRC-20XX
