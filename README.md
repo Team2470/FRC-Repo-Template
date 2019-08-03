@@ -1,4 +1,9 @@
-# FRC-2020
+# FRC-Repo-Template
+
+Use this template to create new repositories for FRC yearly code. Change the license to the current year and delete this information block (leave the FRC-20XX but change the date to ***the date of
+
+---
+# FRC-20XX
 
 Robot code for FRC Team BJORG (Team 2470) during the 2019-2020 FIRST Infinite Recharge season. Extra information pertaining to this project can be found in the following files below:
 
